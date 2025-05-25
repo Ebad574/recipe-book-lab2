@@ -50,12 +50,13 @@ Instructions:
 ### Spaghetti and Meatballs
 
 Ingredients:
+- 1 tsp dried orgeno 
 - 1 pound spaghetti
 - 1 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
 - 1/4 cup grated Parmesan cheese
-- 1 egg
+- 1 egg 
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
@@ -75,6 +76,7 @@ Ingredients:
 - 2 boneless, skinless chicken breasts
 - Salt and pepper to taste
 - 2 tablespoons olive oil
+- 1 tsp paprika
 - 4 slices Swiss cheese
 - 4 hamburger buns
 - Lettuce
